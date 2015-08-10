@@ -1,1 +1,7 @@
 Device tree for YU YUREKA
+
+Use CyanogenMod Recovery to compile for this device. Fusion default recovery is based on TWRP.
+
+Https clone url: https://github.com/CyanogenMod/android_bootable_recovery.git
+
+Dont forget to use cm-12.1 branch!!
